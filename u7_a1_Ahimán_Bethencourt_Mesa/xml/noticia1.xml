@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Valorant Noticias</title>
+		<link>http://www.ahiman.com</link>
+		<description></description>
+		<language>en-us</language>
+		<copyright><![CDATA[ ahiman ]]></copyright>
+		<image>
+			<url></url>
+			<title>Valorant Noticias</title>
+			<link>http://www.ahiman.com</link>
+		</image>
+		<item>
+			<title>Viper</title>
+			<link>https://playvalorant.com/es-es/agents/viper/</link>
+			<pubDate>Sun, 16 Apr 2023 12:00:00 GMT</pubDate>
+			<author>ahiman</author>
+			<category>Valorant</category>
+			<description><![CDATA[ 
+			<h1>Viper</h1>
+			Viper es una química estadounidense con un amplio arsenal de dispositivos venenosos que le sirven para tomar el control del campo de batalla y cegar a los enemigos. Si las toxinas no acaban con su presa, la paranoia la rematará.
+			]]></description>
+		</item>
+	</channel>
+</rss>
