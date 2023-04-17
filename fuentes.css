@@ -1,0 +1,18 @@
+#cabecera{
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+#indice{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-transform: lowercase;
+}
+#piedepagina{
+    font-weight: bold;
+    text-align: center;
+}
+#contenido{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
